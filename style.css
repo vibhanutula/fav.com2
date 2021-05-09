@@ -1,0 +1,137 @@
+body {
+    background: linear-gradient(#ae00ff 20%, #ff007b 80%);
+    text-align: center;
+}
+
+#1 {
+    height: 500px;
+}
+
+h1 {
+    color: #ff8ad8;
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: inherit;
+}
+
+h2 {
+    color: #ff9edb;
+    font-size: 30px;
+    margin-top: 50px;
+    font-family: monospace;
+}
+
+#I {
+    height: 350px;
+    width: 350px;
+    margin-top: 50px;
+    border-radius: 50px;
+}
+
+#P {
+    color: #ff8ad8;
+    font-family: inherit;
+    font-size: 25px;
+}
+
+#2 {
+    height: 800px;
+}
+
+#About {
+    color: #ff8ad8;
+    font-size: 40px;
+}
+
+#U {
+    list-style: none;
+    font-family: monospace;
+    position: fixed;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: #ff91c3;
+}
+
+#R {
+    font-family: monospace;
+    text-align: center;
+    line-height: 50px;
+    font-size: 25px;
+    color: #ff91c3;
+}
+
+.L {
+    color: #00f2ff;
+    padding-top: 5px;
+    padding-left: 11px;
+    padding-right: 11px;
+    padding-bottom: 5px;
+    font-size: 18px;
+}
+
+.L:hover {
+    background-color: #ffb0e2;
+    color: #ff00a1;
+}
+
+#S {
+    color: #ff9edb;
+    font-family: serif;
+    font-size: 25px;
+}
+
+#Luck {
+    color: #ff9edb;
+    font-family: serif;
+    font-size: 22px;
+}
+
+#Sec {
+    font-family: monospace;
+    text-align: center;
+    line-height: 50px;
+    font-size: 25px;
+    color: #ff91c3;
+}
+
+#MW {
+    color: #ff8fdf;
+}
+
+#Word {
+    color: #ff8fdf;
+}
+
+#Happy {
+    color: #ff8fdf;
+}
+
+#Games {
+    margin-bottom: 65px;
+    margin-top: 65px;
+    margin-top: 65px;
+}
+
+#Email{
+    color: #ffbde0;
+}
+#Nat{
+    height: 450px;
+    width: 450px;
+    border-width: 5px;
+    border-color: #ffbde0;
+    border-radius: 25px;
+    margin-bottom: 50px;
+}
+#Nat:hover{
+    transform: scale(0.9);
+}
+#Ins{
+    color: #ffbde0;
+}
+html{
+    scroll-behavior: smooth;
+}
